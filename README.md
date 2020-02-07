@@ -4,7 +4,7 @@
 
 I am an outstanding half wizard-half human student that will disappear from any human contact soon enough. "Everything is not what it seems"
 
-![](imagez/(Anime).jpg)
+![](imagez/woftwp.gif)
 
 ## Blog post
 
