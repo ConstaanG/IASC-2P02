@@ -8,4 +8,4 @@ I am an outstanding half wizard-half human student that will disappear from any 
 
 ## Blog post
 
-Woah your still here, viewing my page?
+Woah your still here, viewing my page?... [continue reading](blog)
