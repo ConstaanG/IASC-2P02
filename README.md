@@ -1,4 +1,4 @@
-# IASC 2P02 | Constaan George Antony
+# IASC 2P02 | Blog by: Constaan George Antony
 
 ## Prompt
 
@@ -10,10 +10,10 @@ where readers interpret both the text and any other media (such as graphs, image
 on). Creating scholarship that asks readers to interpret across multiple modes will distinguish digital
 humanities scholarship from scholarship in the sciences.
 
-![](imagez/woftwp.gif)
+
 
 ## Blog post
 
-Woah your still here, viewing my page?... [continue reading](blog)
+Click here to start reading my post [continue reading](blog)
 
-![](imagez/deku.gif)
+
