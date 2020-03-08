@@ -1,5 +1,7 @@
 # IASC 2P02 | Blog by: Constaan George Antony
 
+
+
 ## Prompt
 
 Both Moretti and Drucker argue that visual forms (e.g. graphs, maps, etc.) can and should be used to
