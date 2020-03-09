@@ -32,3 +32,13 @@ This interactive trend graph made from voyant is a great example of how digital 
 
 ## Where do we go from here
 Digital humanities is such a huge field that stems out to many different skill sets and unique attributes. One of these stems is one of these branches and is proving that it serves well to be used in todays’ world and the future to come. “If the goal of interpretation is to unlock meaning, then one approach to making in the humanities is creating physical objects as an interpretive act. These things are not simply aesthetic objects or ‘pretty pictures.’”(Staley, Ch.2) Although we can’t ensure how digital scholarship will be utilized in the future we can be certain that it should without a doubt be highly useful in the future and we can thank Drucker and Moretti for trying to push digital scholarship forward.
+
+## Citations
+
+Staley, David. “Making Things and Drawing Boundaries: Chapter 2.” "Chapter 2" in "Making Things and Drawing Boundaries" on Manifold, dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/be0ac4f2-f18b-476e-9199-463df64aa8d9#ch02.
+
+Drucker, Johanna. “Humanities Approaches to Graphical Display.” DHQ: Digital Humanities Quarterly: Humanities Approaches to Graphical Display, www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html.
+
+Moretti, Franco. Graphs, Maps, Trees: Abstract Models for a Literary History. London: Verso, 2005. https://www.mat.ucsb.edu/~g.legrady/academic/courses/09w259/Moretti_graphs.pdf.
+
+Staley, David. “Making Things and Drawing Boundaries: Chapter 2.” "Chapter 2" in "Making Things and Drawing Boundaries" on Manifold, dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/be0ac4f2-f18b-476e-9199-463df64aa8d9#ch02.
