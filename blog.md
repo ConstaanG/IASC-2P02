@@ -22,7 +22,7 @@ We have many tools for text analysis and visualization at our disposal with the 
 
 <!--	Exported from Voyant Tools (voyant-tools.org).
 Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 500px; height: 500px;' src='https://voyant-tools.org/tool/Trends/?view=Trends&query=data&query=interpretation&query=time&query=new&mode=&chartType=bar&corpus=bb4d3b30a5d22537248dbfab20ba8188'></iframe>
+<iframe style='width: 100%; height: 328px;' src='https://voyant-tools.org/tool/Trends/?view=Trends&query=data&query=interpretation&query=time&query=new&mode=&chartType=bar&corpus=bb4d3b30a5d22537248dbfab20ba8188'></iframe>
 
 This interactive trend graph made from voyant is a great example of how digital scholarship tools can boost the appeal and quality of one’s work through the interactive evidence it provides. For example, in the graph we can compare the use of certain words in the two texts that I want to analyze and see how often its used in each text. I can even remove words to compare other words more closely.
 
