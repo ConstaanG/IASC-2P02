@@ -1,10 +1,10 @@
-Introduction
+## Introduction
 
 Always look towards the future, and with the everyday advancements in our society it isn’t that hard to see the future. There are many scholars who explain how we should advance in certain fields. One example can be the advancement of the Digital Humanities. Although many people will influence the direction we advance in the digital humanities scholarship, Drucker and Moretti will definitely be a big influence because of their respective works that present a better understanding of how digital humanities scholarship should progress for the next generation. AS they give a refined meaning to what digital scholarships are and what the future should hold for it. Throughout this blog post I will explain how Drucker and Moretti’s readings influenced the advancement of digital scholarships along with my opinion on it, what their respective works did to define digital scholarships and where i believe digital scholarships will go from here.
 
 
 
-They’ve Got a Point
+## They’ve Got a Point
 	Both Drucker and Moretti in their respective readings talk about how visual representations should be used to any occurring cultural phenomena. In my opinion, i agree with their theory as we live in a world where people need visual evidence for something to be believable. When comparing both readings it's noted they never really explain how we should incorporate digital scholarships. But, they did suggest ways in which they can visually represent data. 
 
 	Drucker’s reading went into great detail about breaking down visual tools and mending them to be able to use capta to see what visual tools are really trying to show. As i was reading his his work, i stumbled onto an interesting quote:
@@ -18,7 +18,7 @@ I found this quote very interesting because he kind of explains the process whic
 
 It was interesting to see that Moretti changed his state of mind while doing this piece because he learned that quantitative data is open to interpretation and more visual aids doesn’t make it easier to be interpreted. The experimentation that Moretti went through to come to his mindset on how digital scholarships should be used really had a big impact on the turn it took to get to where it is today.
 
-Use of Analyzation and Visualization
+## Use of Analyzation and Visualization
 	We have many tools for text analysis and visualization at our disposal with the technology we have today. An example of one of these tools is Voyant. “Voyant Tools is a web-based text reading and analysis environment. It is a scholarly project that is designed to facilitate reading and interpretive practices for digital humanities students and scholars as well as for the general public.”(Voyant-Tools) This tool was made with the intention of giving a tool assist those in the digital humanities. Voyant allows users to view trends in text with key words while being able to see the trending data mapped in a graph or other various methods. 
 
 <!--	Exported from Voyant Tools (voyant-tools.org).
@@ -28,5 +28,5 @@ Feel free to change the height and width values or other styling below: -->
 
 	This interactive trend graph made from voyant is a great example of how digital scholarship tools can boost the appeal and quality of one’s work through the interactive evidence it provides. For example, in the graph we can compare the use of certain words in the two texts that I want to analyze and see how often its used in each text. I can even remove words to compare other words more closely.
 
-Where do we go from here
+## Where do we go from here
 	Digital humanities is such a huge field that stems out to many different skill sets and unique attributes. One of these stems is one of these branches and is proving that it serves well to be used in todays’ world and the future to come. “If the goal of interpretation is to unlock meaning, then one approach to making in the humanities is creating physical objects as an interpretive act. These things are not simply aesthetic objects or ‘pretty pictures.’”(Staley, Ch.2) Although we can’t ensure how digital scholarship will be utilized in the future we can be certain that it should without a doubt be highly useful in the future and we can thank Drucker and Moretti for trying to push digital scholarship forward.
