@@ -41,4 +41,4 @@ Drucker, Johanna. “Humanities Approaches to Graphical Display.” DHQ: Digital
 
 Moretti, Franco. Graphs, Maps, Trees: Abstract Models for a Literary History. London: Verso, 2005. https://www.mat.ucsb.edu/~g.legrady/academic/courses/09w259/Moretti_graphs.pdf.
 
-Staley, David. “Making Things and Drawing Boundaries: Chapter 2.” "Chapter 2" in "Making Things and Drawing Boundaries" on Manifold, dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/be0ac4f2-f18b-476e-9199-463df64aa8d9#ch02.
+Voyant Tools. https://voyant-tools.org/
