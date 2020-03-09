@@ -1,5 +1,8 @@
 # IASC 2P02 | Blog by: Constaan George Antony
 
+## About Me
+
+Just a guy trying to live off of sleep. I don't consider myself to have gaming addiction, but I am addicted to basketball. R.I.P Kobe and Gigi but Ol'Goat James is gonna win it all for Kobe.
 
 
 ## Prompt
